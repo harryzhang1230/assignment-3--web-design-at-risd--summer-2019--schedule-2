@@ -1,0 +1,42 @@
+header {
+   background-color: #000;
+}
+
+h1 {
+   /* background-color: #000; */
+   color: #fff;
+   padding: 2.8em 3em;
+   text-align: center;
+   font-size: 100px;
+   font-family: 'Shadows Into Light', cursive;
+}
+
+p {
+   font-family: 'Assistant', sans-serif;
+}
+
+.Button {
+   text-align: center;
+   font-size: 48px;
+   color: #000;
+   padding-bottom: 1.5em;
+}
+
+.SocialMedia {
+   text-align: right;
+   font-size: 42px;
+   color: #333;
+}
+
+.AlignLeft {
+   text-align: left;
+   font-size: 42px;
+   color: #333;
+}
+
+.Menu {
+   background-color: #fff;
+   padding-left: 5em;
+   padding-top: 3em;
+   padding-bottom: 3em;
+}

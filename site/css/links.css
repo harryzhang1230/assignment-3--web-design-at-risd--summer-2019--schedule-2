@@ -1,0 +1,22 @@
+a {
+   display: block;
+   transition: 400ms;
+}
+
+a:link {
+   text-decoration: none;
+   color: #fff;
+}
+
+a:visited {
+   color: #fff;
+}
+
+a:hover {
+   text-decoration: none;
+   opacity: 50%;
+}
+
+/* a:active {
+   background-color: #fff;
+} */
