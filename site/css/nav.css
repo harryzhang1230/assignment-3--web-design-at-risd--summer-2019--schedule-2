@@ -1,4 +1,8 @@
 nav {
    padding-top: 1em;
    padding-bottom: 1em;
+   /* background-color: #ccc; */
+   /* height: 100%; /* Full height */
+   /* position: fixed; /* Make it stick, even on scroll */
+   /* overflow: auto;} /* Enable scrolling if the sidenav has too much content */
 }
