@@ -1,15 +1,21 @@
 header {
    background-color: #000;
+   /* padding-bottom: 6em; */
 }
 
+/* body {
+   background-color: #fffff0;
+} */
+
 footer {
-   background-color: #000;
+   /* padding-top: 6em; */
+   background-color: #fff;
 }
 
 h1 {
    /* background-color: #000; */
    color: #fff;
-   padding: 2.8em 3em;
+   padding: 2.6em 3em;
    text-align: center;
    font-size: 100px;
    font-family: 'Shadows into light', cursive;
@@ -21,11 +27,28 @@ p {
    line-height: 2em;
 }
 
+blockquote {
+   padding-left: 8em;
+   padding-right: 12em;
+   padding-bottom: 2em;
+   line-height: 1.4em;
+   font-family: 'Shadows into light', cursive;
+   font-size: 28px;
+   color: #fff;
+}
+
 .Button {
    text-align: center;
    font-size: 48px;
-   color: #000;
+   color: #fff;
+   background-color: #fff;
    padding-bottom: 1.5em;
+}
+
+.BottomButton {
+   text-align: center;
+   font-size: 48px;
+   color: #fff;
 }
 
 .SocialMedia {
@@ -65,25 +88,32 @@ p {
    padding-right: 10em;
 }
 
+.Section10 {
+   padding-bottom: 5em;
+}
+
 .footerText {
+   text-align: center;
    font-family: 'Assistant', sans-serif;
-   font-size: 24px;
+   font-size: 18px;
    color: #fff;
-   text-align: right;
 }
 
 .footerimage {
-   text-align: left;
+   background-color: #000;
    padding-left: 6em;
-   padding-top: 6em;
+   padding-top: 2em;
    padding-bottom: 0
    /* float: left; */
 }
 
 .SocialMedia {
-   text-align: center;
-   font-size: 48px;
-   color: #fff;
+   /* position: absolute; */
+   left: 0;
+   bottom: 0;
+   /* padding-top: 2em; */
+   font-size: 52px;
+   color: #000;
 }
 
 .in-betweentext {
@@ -91,25 +121,68 @@ p {
    padding-right: 23em;
 }
 
-.figurecaption {
-   color: #ccc;
-   font-style: italic;
-}
-
 .Yellow {
    font-family: 'Shadows into light', cursive;
-   font-size: 32px;
+   font-size: 28px;
    color: #ffcf59;
 }
 
 .Orange {
    font-family: 'Shadows into light', cursive;
-   font-size: 32px;
+   font-size: 28px;
    color: #ffa765;
 }
 
 .Red {
    font-family: 'Shadows into light', cursive;
-   font-size: 32px;
+   font-size: 28px;
    color: #f36666;
+}
+
+.Pink {
+   font-family: 'Shadows into light', cursive;
+   font-size: 28px;
+   color: #ffb3d4;
+}
+
+.Purple {
+   font-family: 'Shadows into light', cursive;
+   font-size: 28px;
+   color: #9d72d4;
+}
+
+.Grey {
+   font-family: 'Shadows into light', cursive;
+   font-size: 28px;
+   color: #bebebe;
+}
+
+.Blue {
+   font-family: 'Shadows into light', cursive;
+   font-size: 28px;
+   color: #66b1f7;
+}
+
+.LightBlue {
+   font-family: 'Shadows into light', cursive;
+   font-size: 28px;
+   color: #60d9dc;
+}
+
+.LightGreen {
+   font-family: 'Shadows into light', cursive;
+   font-size: 28px;
+   color: #60dcab;
+}
+
+.Green {
+   font-family: 'Shadows into light', cursive;
+   font-size: 28px;
+   color: #00bb4e;
+}
+
+.White {
+   font-family: 'Shadows into light', cursive;
+   font-size: 36px;
+   color: #fff;
 }
